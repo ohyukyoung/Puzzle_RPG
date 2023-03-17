@@ -1,7 +1,7 @@
 # Game Development Using Unity
 ---
 
-+ Table of Contents
+### Table of Contents
   + Project Description
     + The reason why I planned this project
   + How to Install and Run a Project
