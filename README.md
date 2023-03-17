@@ -29,19 +29,14 @@ For building and running the game you need:
  
  # Stacks 
  ### environment
-<img  src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white">
-<img  src="https://img.shields.io/badge/Visual Studio-5C2D91?style=for-the-badge&logo=visual studio&logoColor=white">
-<img  src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+<img  src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"><img  src="https://img.shields.io/badge/Visual Studio-5C2D91?style=for-the-badge&logo=visual studio&logoColor=white"><img  src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 
 ### development
-<img  src="https://img.shields.io/badge/C-7952B3?style=for-the-badge&logo=C#&logoColor=white">
-<img  src="https://img.shields.io/badge/android-3DDC84?style=for-the-badge&logo=Android&logoColor=white">
+<img  src="https://img.shields.io/badge/C-7952B3?style=for-the-badge&logo=C#&logoColor=white"><img  src="https://img.shields.io/badge/android-3DDC84?style=for-the-badge&logo=Android&logoColor=white">
 
 
 ### communication
-<img  src="https://img.shields.io/badge/zoom-7952B3?style=for-the-badge&logo=C# &logoColor=white">
-<img  src="https://img.shields.io/badge/google meet-00897B?style=for-the-badge&logo=googlemeet&logoColor=white">
-<img  src="https://img.shields.io/badge/google colab-F9AB00?style=for-the-badge&logo=google colab&logoColor=white">
+<img  src="https://img.shields.io/badge/zoom-7952B3?style=for-the-badge&logo=C# &logoColor=white"><img  src="https://img.shields.io/badge/google meet-00897B?style=for-the-badge&logo=googlemeet&logoColor=white"><img  src="https://img.shields.io/badge/google colab-F9AB00?style=for-the-badge&logo=google colab&logoColor=white">
 
 # 화면 구성
 
