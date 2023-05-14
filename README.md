@@ -59,8 +59,7 @@ For building and running the game you need:
 시작 화면 | 튜토리얼
 --- | --- |
 ![image](https://github.com/ohyukyoung/Puzzle_RPG/assets/90199652/c6b27929-7137-4080-9b37-beb888eba51a)| ![image](https://github.com/ohyukyoung/Puzzle_RPG/assets/90199652/e1cb52dd-c93a-4cbe-9682-3207c068b570)
-|
-업적 | 게임 화면 | 
+|업적 | 게임 화면 | 
 ![image](https://github.com/ohyukyoung/Puzzle_RPG/assets/90199652/eecae25f-85a1-479a-9d77-f557c4842879) |![image](https://github.com/ohyukyoung/Puzzle_RPG/assets/90199652/828b5dab-127c-41c8-803d-d2759df81fd0)
 
 # 주요 기능
@@ -76,3 +75,8 @@ For building and running the game you need:
 * 공격수단 구매해서 몬스터 처치 가능
 * 수룡이 체력 없어지면 체력 물약 구매해서 체력 보
 * 코인을 사용한 공격 수단 업그레이드 
+
+
+
+
+
